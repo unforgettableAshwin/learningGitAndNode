@@ -1,0 +1,19 @@
+{
+  "name": "settingupnodeandnpm",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[3~G\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[N\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unforgettableAshwin/learningGitAndNode.git"
+  },
+  "author": "ashwin nirmul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unforgettableAshwin/learningGitAndNode/issues"
+  },
+  "homepage": "https://github.com/unforgettableAshwin/learningGitAndNode#readme"
+}
